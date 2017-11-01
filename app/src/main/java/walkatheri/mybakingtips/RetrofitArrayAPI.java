@@ -1,4 +1,4 @@
-package blueappsoftware.mybakingtips;
+package walkatheri.mybakingtips;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package blueappsoftware.mybakingtips;
+package walkatheri.mybakingtips;
 
 import android.app.Fragment;
 import android.app.FragmentManager;
